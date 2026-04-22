@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented Information Technology student with a solid foundation in Python and Java, complemented by handson<br>experience in problem-solving and software development. Passionate about building efficient, scalable solutions and<br>continuously learning new technologies. Seeking a challenging internship opportunity to apply technical skills, contribute<br>to innovative projects, and gain valuable industry experience in a collaborative and dynamic environment
+Detail-oriented Information Technology student with a solid foundation in Python and Java, complemented by handson<br>experience in problem-solving and software development. Passionate about building efficient, scalable solutions and<br>continuously learning new technologies.
 
 
 ## 🌐 Socials:
